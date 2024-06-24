@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://fishcpy.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://fishcpy.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 01:13:18 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>服务器     mc</title><link>https://fishcpy.github.io/post/fu-wu-qi-%20%20%20%20%20mc.html</link><description># 服务器帮助文档                                  &#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://fishcpy.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://fishcpy.github.io</link></image><lastBuildDate>Mon, 24 Jun 2024 11:50:42 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>(MC)服务器</title><link>https://fishcpy.github.io/post/%28MC%29-fu-wu-qi.html</link><description># 服务器帮助文档                                  &#13;
 &#13;
 &#13;
 &#13;
@@ -52,4 +52,4 @@ http://fu.cloudns.be:8123/#&#13;
 #### bluemap&#13;
 &#13;
 ##### bluemap由于卡顿等问题体验差劲，暂不使用&#13;
-。</description><guid isPermaLink="true">https://fishcpy.github.io/post/fu-wu-qi-%20%20%20%20%20mc.html</guid><pubDate>Sun, 23 Jun 2024 01:06:27 +0000</pubDate></item></channel></rss>
+。</description><guid isPermaLink="true">https://fishcpy.github.io/post/%28MC%29-fu-wu-qi.html</guid><pubDate>Sun, 23 Jun 2024 01:06:27 +0000</pubDate></item></channel></rss>
