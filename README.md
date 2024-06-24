@@ -1,4 +1,4 @@
-# Blog Title :link: https://fishcpy.github.io 
+# Blog Title :link: [https://fishcpy.github.io ](https://www.fu.cloudns.be/)
 ### :page_facing_up: [1](https://fishcpy.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 543 
