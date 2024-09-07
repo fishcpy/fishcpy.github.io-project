@@ -1,4 +1,4 @@
-# fishcpy文件发布网站 :link: https://fishcpy.github.io/fishcpy.github.io-project 
+# fishcpy文件发布网站 :link: 
 ### :page_facing_up: [1](https://fishcpy.github.io/fishcpy.github.io-project/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 2 
